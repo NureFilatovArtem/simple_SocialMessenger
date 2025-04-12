@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "from": 1,
+    "to": 2,
+    "content": "sfdsfdsdf",
+    "timestamp": "2025-04-11T22:52:04.348Z"
+  },
+  {
+    "id": 2,
+    "from": 2,
+    "to": 2,
+    "content": "dasds",
+    "timestamp": "2025-04-11T22:54:13.487Z"
+  },
+  {
+    "id": 3,
+    "from": 1,
+    "to": 3,
+    "content": "Hello!",
+    "timestamp": "2025-04-11T23:25:33.845Z"
+  },
+  {
+    "id": 4,
+    "from": 3,
+    "to": 1,
+    "content": "Hey, Artem, how are you?",
+    "timestamp": "2025-04-11T23:25:59.077Z"
+  },
+  {
+    "id": 5,
+    "from": 1,
+    "to": 3,
+    "content": "I wanted to ask that first!",
+    "timestamp": "2025-04-11T23:30:37.256Z"
+  },
+  {
+    "id": 6,
+    "from": 1,
+    "to": 3,
+    "content": "Everything great",
+    "timestamp": "2025-04-11T23:30:43.622Z"
+  },
+  {
+    "id": 7,
+    "from": 1,
+    "to": 6,
+    "content": "Hey Ben, how are you?",
+    "timestamp": "2025-04-11T23:52:18.400Z"
+  },
+  {
+    "id": 8,
+    "from": 6,
+    "to": 1,
+    "content": "Hey, Artem, I am great, and you?",
+    "timestamp": "2025-04-11T23:52:37.624Z"
+  }
+]

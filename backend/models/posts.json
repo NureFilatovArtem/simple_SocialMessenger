@@ -1,0 +1,37 @@
+[
+  {
+    "id": 7,
+    "userId": 6,
+    "content": "I am here to find nice job, any suggestions?"
+  },
+  {
+    "id": 6,
+    "userId": 5,
+    "content": "Who could see my smile? 👋"
+  },
+  {
+    "id": 5,
+    "userId": 4,
+    "content": "If you interested in Car for rent in Dubai - text me!"
+  },
+  {
+    "id": 4,
+    "userId": 3,
+    "content": "Hallo, ik kom uit Belgie, is iemand hier nog van Belgie?"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "content": "I have found a new recipe of Pizza!"
+  },
+  {
+    "id": 1,
+    "userId": 1,
+    "content": "Hello from Artem!"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "content": "Alexey is here too!"
+  }
+]

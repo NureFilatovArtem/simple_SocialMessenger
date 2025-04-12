@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "postId": 3,
+    "userId": 1,
+    "content": "adsadsasd"
+  },
+  {
+    "id": 2,
+    "postId": 3,
+    "userId": 1,
+    "content": "adsadsadsasd"
+  },
+  {
+    "id": 3,
+    "postId": 4,
+    "userId": 1,
+    "content": "Hey, do you speak English?"
+  }
+]
